@@ -217,4 +217,4 @@ podman system reset -f
 
 ## ⚖️ Licencia
 
-MIT (o la que prefieras). Añade tu `LICENSE` al repo.
+MIT
