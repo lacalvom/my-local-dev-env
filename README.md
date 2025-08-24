@@ -217,4 +217,4 @@ podman system reset -f
 
 ## ⚖️ Licencia
 
-MIT
+[MIT](./LICENSE)
